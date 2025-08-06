@@ -1,0 +1,20 @@
+Return-Path: <account-update@amaz0n-support.com>
+Received: from mail.fakeprovider.ru (mail.fakeprovider.ru. [185.203.44.17])
+        by mail.example.com with ESMTPS id xh6si8123642plx.28.2025.08.06.10.40.19
+        for <victim@example.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Tue, 06 Aug 2025 10:40:19 +0530
+Received-SPF: Fail (example.com: domain of amaz0n-support.com does not designate 185.203.44.17 as permitted sender) client-ip=185.203.44.17;
+Authentication-Results: mail.example.com;
+        dkim=none (message not signed)
+        header.d=none;
+        spf=fail (example.com: domain of amaz0n-support.com does not designate 185.203.44.17 as permitted sender) smtp.mailfrom=account-update@amaz0n-support.com;
+        dmarc=fail (p=REJECT) header.from=amaz0n-support.com
+From: Amazon Account Update <account-update@amaz0n-support.com>
+To: victim@example.com
+Subject: Action Required: Your Amazon Account Has Been Restricted
+Date: Tue, 6 Aug 2025 10:42:13 +0530
+Message-ID: <c9fe23961e84a32a839f44@amaz0n-support.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
