@@ -24,4 +24,4 @@ Identify phishing characteristics in a suspicious email sample using header anal
 ## 📌 Outcome
 Improved ability to analyze suspicious emails and recognize phishing tactics used by attackers.
 
-----
+-----
