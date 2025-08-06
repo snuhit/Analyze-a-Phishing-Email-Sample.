@@ -1,0 +1,21 @@
+From: Amazon Account Update <account-update@amaz0n-support.com>
+To: victim@example.com
+Subject: Action Required: Your Amazon Account Has Been Restricted
+Date: Tue, 6 Aug 2025 10:42:13 +0530
+
+Dear Customer,
+
+We have detected suspicious activity in your Amazon account and for your safety, we have temporarily restricted your access.
+
+To restore full access, you are required to verify your account information by following the secure link below:
+
+🔒 https://amaz0n-account-verify.com/login
+
+Please note: If you fail to verify your information within the next 24 hours, your Amazon account will be permanently suspended for security reasons.
+
+Sincerely,  
+Amazon Security Team  
+https://www.amazon.com
+
+Attachment: Amazon_Verification_Form.exe
+
